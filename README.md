@@ -1,1 +1,1 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tlatjdgh3778&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlatjdgh3778&theme=monokai)
