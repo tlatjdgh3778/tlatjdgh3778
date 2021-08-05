@@ -1,1 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlatjdgh3778&theme=monokai)
+Hi there 👋
+
+* My Portfolio : [Portfolio](https://shimseongho.netlify.app/)
+* Blog : [Blog](https://velog.io/@tlatjdgh3778) 
