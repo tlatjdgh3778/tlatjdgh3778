@@ -6,4 +6,4 @@ Hi there 👋
 Skills
 * 💻 Frontend : JavaScript, TypeScript, React, React-Redux
 * ⌨ Dev Tools: Github, Vscode
-* 🎨 Etc : Styled-component, Material-UI
+* 🎨 Etc : Styled-component
