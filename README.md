@@ -1,8 +1,25 @@
-Hi there 👋
+## 👋 Hi there! I'm SeongHo
 
-* Blog : [Blog](https://velog.io/@tlatjdgh3778) 
+I'm a frontend developer passionate about building fast, accessible, and delightful web applications.
 
-Skills
-* 💻 Frontend : JavaScript, TypeScript, React, React-Query
-* ⌨ Dev Tools: Github, Vscode
-* 🎨 Etc : Styled-component, Mui
+---
+
+### 🛠 Skills
+
+#### 💻 Frontend
+- TypeScript, React, TanStack Query, Zustand
+- Vite, Turborepo
+
+#### 🎨 UI
+- MUI, Tailwind
+
+#### ⚙ Tooling & DevOps
+- Git, GitHub, VSCode, Docker, Orval, Module Federation
+
+#### 🔗 Web3
+- MetaMask, Ethers.js, Solidity
+
+---
+
+### 🔗 Links
+- [LinkedIn](www.linkedin.com/in/seongho-shim-580ba1284)
