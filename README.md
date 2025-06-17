@@ -17,7 +17,7 @@ I'm a frontend developer passionate about building fast, accessible, and delight
 - Git, GitHub, VSCode, Docker, Orval, Module Federation
 
 #### 🔗 Web3
-- MetaMask, Ethers.js, Solidity
+- MetaMask, Solidity
 
 ---
 
