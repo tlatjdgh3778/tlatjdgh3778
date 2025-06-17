@@ -22,4 +22,4 @@ I'm a frontend developer passionate about building fast, accessible, and delight
 ---
 
 ### 🔗 Links
-- [LinkedIn](www.linkedin.com/in/seongho-shim-580ba1284)
+- [LinkedIn](https://www.linkedin.com/in/seongho-shim-580ba1284)
