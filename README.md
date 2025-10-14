@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 - 🖥️ Frontend engineer specializing in **cloud infrastructure dashboards**  
 - ⚙️ Experienced with **React**, **TypeScript**, **TanStack Query**, and **Zustand** for scalable and performant interfaces  
-- 🚀 Currently exploring **Web3 technologies** to bridge traditional cloud systems with **decentralized applications (DApps)**
+- 🚀 Currently exploring **Web3 technologies**
 
 ---
 
