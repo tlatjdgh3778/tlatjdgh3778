@@ -20,4 +20,4 @@
 ---
 
 ### 🌐 Links
-- [LinkedIn](https://www.linkedin.com/in/seongho-shim-%EC%8B%AC%EC%84%B1%ED%98%B8-580ba1284)
+- [LinkedIn](https://www.linkedin.com/in/seonghoshim)
