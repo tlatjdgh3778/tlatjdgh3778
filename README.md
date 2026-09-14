@@ -21,7 +21,7 @@ Frontend engineer building web interfaces with React and TypeScript.
 
 - 🖥️ Product UI with **React** and **TypeScript**
 - ⚙️ Server/client state separation using **TanStack Query** and **Zustand**
-- 📚 Currently picking up **Solidity**
+- 📚 Currently picking up **Web3**
 
 ---
 
